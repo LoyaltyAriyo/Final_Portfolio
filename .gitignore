@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Logs and debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env/config secrets
+.env
+.env.local
+.env.*.local
+
+# OS/editor noise
+.DS_Store
+.history/
+Thumbs.db
+
+# Coverage and reports
+coverage/
+.nyc_output/
+
+# Vite/parcel cache
+.parcel-cache/
+.vite/
+
+# Misc tooling
+.eslintcache
+
+# Local database or tmp data
+tmp/
