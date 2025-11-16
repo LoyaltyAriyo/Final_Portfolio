@@ -36,3 +36,5 @@ coverage/
 
 # Local database or tmp data
 tmp/
+package-lock.json
+client/package-lock.json
